@@ -1,0 +1,13 @@
+.center-actions{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+}
+.center-actions>a {
+    margin-right:5px
+}
+
+.center-text{
+     text-align: center;
+}
